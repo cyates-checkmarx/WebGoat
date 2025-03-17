@@ -15,7 +15,9 @@
     "node-ipc": "9.2.2",
     "momnet": "2.29.1",
     "flow-dev-tools": "99.10.9",
-    "scs": "0.0.1"
+    "scs": "0.0.1",
+    "cyates-private": "1.0",
+    "happy-saint-pattys-day": "3.17.24"
   },
   "scripts": {},
   "devDependencies": {
